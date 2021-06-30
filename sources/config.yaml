@@ -1,5 +1,6 @@
 sources:
-    - MyFont.glyphs
-familyName: My Font
+    - BirthstoneBounce.glyphs
+familyName: Birthstone Bounce
 outputDir: "../fonts"
+buildVariable: false
 
