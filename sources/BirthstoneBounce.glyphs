@@ -1,12 +1,12 @@
 {
-.appVersion = "1356";
+.appVersion = "1352";
 DisplayStrings = (
 "/foursuperior",
 "/foursuperior",
 "¾",
 "/hookabovecomb/circumflexcomb/hookabovecomb/circumflexcomb_hookabovecomb/ocircumflexhookabove.titl",
 "/tildecomb/brevecomb_tildecomb",
-"/otildemacron"
+"/otildemacron/ringcomb.case/acutecomb.case/Aringacute"
 );
 classes = (
 {
@@ -199,20 +199,24 @@ name = typoLineGap;
 value = 20;
 },
 {
-name = winAscent;
-value = 1050;
-},
-{
-name = winDescent;
-value = 750;
-},
-{
 name = hheaAscender;
 value = 1050;
 },
 {
 name = hheaDescender;
 value = -750;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1077;
+},
+{
+name = winDescent;
+value = 685;
 },
 {
 name = strikeoutPosition;
@@ -310,12 +314,16 @@ name = hheaDescender;
 value = -750;
 },
 {
+name = hheaLineGap;
+value = 0;
+},
+{
 name = winAscent;
-value = 1076;
+value = 1077;
 },
 {
 name = winDescent;
-value = 645;
+value = 685;
 },
 {
 name = strikeoutPosition;
@@ -1732,7 +1740,7 @@ unicode = 00C5;
 },
 {
 glyphname = Aringacute;
-lastChange = "2021-07-28 10:40:45 +0000";
+lastChange = "2021-07-29 22:52:06 +0000";
 layers = (
 {
 components = (
@@ -1745,7 +1753,7 @@ transform = "{1, 0, 0, 1, 684, 350}";
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 718, 524}";
+transform = "{1, 0, 0, 1, 721, 504}";
 }
 );
 layerId = "F283E315-3560-4EA4-82EA-F8C998C1EDCC";
@@ -23145,7 +23153,7 @@ width = 1145;
 },
 {
 glyphname = Aringacute.ss01;
-lastChange = "2021-07-28 10:40:45 +0000";
+lastChange = "2021-07-29 22:56:15 +0000";
 layers = (
 {
 components = (
@@ -23158,7 +23166,7 @@ transform = "{1, 0, 0, 1, 1108, 355}";
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 1142, 529}";
+transform = "{1, 0, 0, 1, 1145, 509}";
 }
 );
 layerId = "F283E315-3560-4EA4-82EA-F8C998C1EDCC";
@@ -39601,7 +39609,7 @@ width = 480;
 },
 {
 glyphname = Aringacute.titl;
-lastChange = "2021-07-28 10:40:45 +0000";
+lastChange = "2021-07-29 22:56:15 +0000";
 layers = (
 {
 components = (
@@ -39614,7 +39622,7 @@ transform = "{1, 0, 0, 1, 449, 155}";
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 483, 329}";
+transform = "{1, 0, 0, 1, 486, 309}";
 }
 );
 layerId = "F283E315-3560-4EA4-82EA-F8C998C1EDCC";
@@ -152068,7 +152076,7 @@ width = 134;
 },
 {
 glyphname = acutecomb.case;
-lastChange = "2021-07-28 10:40:45 +0000";
+lastChange = "2021-07-29 22:51:37 +0000";
 layers = (
 {
 anchors = (
@@ -152583,7 +152591,7 @@ width = 181;
 },
 {
 glyphname = ringcomb.case;
-lastChange = "2021-07-28 10:40:45 +0000";
+lastChange = "2021-07-29 22:51:46 +0000";
 layers = (
 {
 anchors = (
@@ -152593,7 +152601,7 @@ position = "{43, 390}";
 },
 {
 name = top;
-position = "{66, 564}";
+position = "{69, 544}";
 }
 );
 layerId = "F283E315-3560-4EA4-82EA-F8C998C1EDCC";
