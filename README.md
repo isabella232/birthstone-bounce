@@ -1,21 +1,10 @@
-# My Font
+# Birthstone Bounce
 
-Short description of your font goes here.
+Birthstone Bounce is the sibling family of Birthstone that adds more luster and playfulness to it. Available in Regular and Medium weights, this version includes caps and ending swashed forms.
 
-## Setting up your font
+All the styles are uniquely compatible to one another, but distinctly different. See how easily the fonts may change according to the needs of the look.
 
-* Hit the green button above ("Use this template") to create your own repository.
-    - *Make sure to click the checkbox marked "Include all branches".*
-
-* Place your font sources in the `sources` directory.
-
-* Then reference the sources in the file `sources/config.yaml`, as well as making any other changes you would like to make based on the instructions in the [Google Font Builder documentation](https://github.com/googlefonts/gftools/blob/main/Lib/gftools/builder/__init__.py).
-
-* Add yourself to the `AUTHORS.txt` and `CONTRIBUTORS.txt` files.
-
-* Remove this section from the readme. :-)
-
-* Finally, add and commit any files you have modified (i.e. `README.md`, `AUTHORS.txt`, `CONTRIBUTORS.txt`, the font sources, and `sources/config.yaml`) to git, then push to GitHub.
+![Sample Image](Documentation/image1.png)
 
 ## Building
 
